@@ -1,0 +1,23 @@
+D:\Mentoring EPAM\MentoringTasks\Task1_2_3_MultiplyMatrixes\bin\Debug\Task1_2_3_MultiplyMatrixes.exe.config
+D:\Mentoring EPAM\MentoringTasks\Task1_2_3_MultiplyMatrixes\bin\Debug\Task1_2_3_MultiplyMatrixes.exe
+D:\Mentoring EPAM\MentoringTasks\Task1_2_3_MultiplyMatrixes\bin\Debug\Task1_2_3_MultiplyMatrixes.pdb
+D:\Mentoring EPAM\MentoringTasks\Task1_2_3_MultiplyMatrixes\obj\Debug\Task1_2_3_MultiplyMatrixes.exe
+D:\Mentoring EPAM\MentoringTasks\Task1_2_3_MultiplyMatrixes\obj\Debug\Task1_2_3_MultiplyMatrixes.pdb
+D:\Mentoring EPAM\MentoringTasks\Task1_2_3_MultiplyMatrixes\obj\Debug\Task1_2_3_MultiplyMatrixes.csprojResolveAssemblyReference.cache
+D:\MentoringTasks\MentoringTasks\MentoringTasks\Task1_2_3_MultiplyMatrixes\bin\Debug\Task1_2_3_MultiplyMatrixes.exe.config
+D:\MentoringTasks\MentoringTasks\MentoringTasks\Task1_2_3_MultiplyMatrixes\bin\Debug\Task1_2_3_MultiplyMatrixes.exe
+D:\MentoringTasks\MentoringTasks\MentoringTasks\Task1_2_3_MultiplyMatrixes\bin\Debug\Task1_2_3_MultiplyMatrixes.pdb
+D:\MentoringTasks\MentoringTasks\MentoringTasks\Task1_2_3_MultiplyMatrixes\obj\Debug\Task1_2_3_MultiplyMatrixes.csprojResolveAssemblyReference.cache
+D:\MentoringTasks\MentoringTasks\MentoringTasks\Task1_2_3_MultiplyMatrixes\obj\Debug\Task1_2_3_MultiplyMatrixes.exe
+D:\MentoringTasks\MentoringTasks\MentoringTasks\Task1_2_3_MultiplyMatrixes\obj\Debug\Task1_2_3_MultiplyMatrixes.pdb
+D:\MentoringTasks\third demo\MentoringTasks\MentoringTasks\Task1_2_3_MultiplyMatrixes\bin\Debug\Task1_2_3_MultiplyMatrixes.exe.config
+D:\MentoringTasks\third demo\MentoringTasks\MentoringTasks\Task1_2_3_MultiplyMatrixes\bin\Debug\Task1_2_3_MultiplyMatrixes.exe
+D:\MentoringTasks\third demo\MentoringTasks\MentoringTasks\Task1_2_3_MultiplyMatrixes\bin\Debug\Task1_2_3_MultiplyMatrixes.pdb
+D:\MentoringTasks\third demo\MentoringTasks\MentoringTasks\Task1_2_3_MultiplyMatrixes\obj\Debug\Task1_2_3_MultiplyMatrixes.csprojResolveAssemblyReference.cache
+D:\MentoringTasks\third demo\MentoringTasks\MentoringTasks\Task1_2_3_MultiplyMatrixes\obj\Debug\Task1_2_3_MultiplyMatrixes.exe
+D:\MentoringTasks\third demo\MentoringTasks\MentoringTasks\Task1_2_3_MultiplyMatrixes\obj\Debug\Task1_2_3_MultiplyMatrixes.pdb
+D:\MentoringTasks\FIVE DEMO\MentoringTasks\Task1_2_3_MultiplyMatrixes\bin\Debug\Task1_2_3_MultiplyMatrixes.exe.config
+D:\MentoringTasks\FIVE DEMO\MentoringTasks\Task1_2_3_MultiplyMatrixes\bin\Debug\Task1_2_3_MultiplyMatrixes.exe
+D:\MentoringTasks\FIVE DEMO\MentoringTasks\Task1_2_3_MultiplyMatrixes\bin\Debug\Task1_2_3_MultiplyMatrixes.pdb
+D:\MentoringTasks\FIVE DEMO\MentoringTasks\Task1_2_3_MultiplyMatrixes\obj\Debug\Task1_2_3_MultiplyMatrixes.exe
+D:\MentoringTasks\FIVE DEMO\MentoringTasks\Task1_2_3_MultiplyMatrixes\obj\Debug\Task1_2_3_MultiplyMatrixes.pdb

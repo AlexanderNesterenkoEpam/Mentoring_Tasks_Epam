@@ -1,0 +1,29 @@
+D:\MentoringTasks\third demo\MentoringTasks\MentoringTasks\AviaCompany\bin\Debug\AviaCompany.exe.config
+D:\MentoringTasks\third demo\MentoringTasks\MentoringTasks\AviaCompany\bin\Debug\AviaCompany.exe
+D:\MentoringTasks\third demo\MentoringTasks\MentoringTasks\AviaCompany\bin\Debug\AviaCompany.pdb
+D:\MentoringTasks\third demo\MentoringTasks\MentoringTasks\AviaCompany\obj\Debug\AviaCompany.exe
+D:\MentoringTasks\third demo\MentoringTasks\MentoringTasks\AviaCompany\obj\Debug\AviaCompany.pdb
+D:\MentoringTasks\third demo\MentoringTasks\MentoringTasks\AviaCompany\obj\Debug\Task2_1_1_AviaCompany.csprojResolveAssemblyReference.cache
+D:\MentoringTasks\FOUR DEMO\MentoringTasks\MentoringTasks\AviaCompany\bin\Debug\AviaCompany.exe.config
+D:\MentoringTasks\FOUR DEMO\MentoringTasks\MentoringTasks\AviaCompany\obj\Debug\AviaCompany.exe
+D:\MentoringTasks\FOUR DEMO\MentoringTasks\MentoringTasks\AviaCompany\obj\Debug\AviaCompany.pdb
+D:\MentoringTasks\FOUR DEMO\MentoringTasks\MentoringTasks\AviaCompany\bin\Debug\AviaCompany.exe
+D:\MentoringTasks\FOUR DEMO\MentoringTasks\MentoringTasks\AviaCompany\bin\Debug\AviaCompany.pdb
+D:\MentoringTasks\FOUR DEMO\MentoringTasks\MentoringTasks\AviaCompany\obj\Debug\Task2_1_1_AviaCompany.csprojResolveAssemblyReference.cache
+D:\MentoringTasks\FIVE DEMO\MentoringTasks\AviaCompany\bin\Debug\AviaCompany.exe.config
+D:\MentoringTasks\FIVE DEMO\MentoringTasks\AviaCompany\obj\Debug\AviaCompany.exe
+D:\MentoringTasks\FIVE DEMO\MentoringTasks\AviaCompany\obj\Debug\AviaCompany.pdb
+D:\MentoringTasks\FIVE DEMO\MentoringTasks\AviaCompany\bin\Debug\AviaCompany.exe
+D:\MentoringTasks\FIVE DEMO\MentoringTasks\AviaCompany\bin\Debug\AviaCompany.pdb
+\\vmware-host\Shared Folders\shared\for money\MentoringTasks\AviaCompany\bin\Debug\AviaCompany.exe.config
+\\vmware-host\Shared Folders\shared\for money\MentoringTasks\AviaCompany\obj\Debug\AviaCompany.exe
+\\vmware-host\Shared Folders\shared\for money\MentoringTasks\AviaCompany\obj\Debug\AviaCompany.pdb
+\\vmware-host\Shared Folders\shared\for money\MentoringTasks\AviaCompany\bin\Debug\AviaCompany.exe
+\\vmware-host\Shared Folders\shared\for money\MentoringTasks\AviaCompany\bin\Debug\AviaCompany.pdb
+\\vmware-host\Shared Folders\shared\for money\MentoringTasks\AviaCompany\obj\Debug\Task2_1_1_AviaCompany.csprojResolveAssemblyReference.cache
+D:\Mentoring EPAM\FINAL_MENTORING_TASKS_0\MentoringTasks\MentoringTasks\AviaCompany\bin\Debug\AviaCompany.exe.config
+D:\Mentoring EPAM\FINAL_MENTORING_TASKS_0\MentoringTasks\MentoringTasks\AviaCompany\obj\Debug\AviaCompany.exe
+D:\Mentoring EPAM\FINAL_MENTORING_TASKS_0\MentoringTasks\MentoringTasks\AviaCompany\obj\Debug\AviaCompany.pdb
+D:\Mentoring EPAM\FINAL_MENTORING_TASKS_0\MentoringTasks\MentoringTasks\AviaCompany\bin\Debug\AviaCompany.exe
+D:\Mentoring EPAM\FINAL_MENTORING_TASKS_0\MentoringTasks\MentoringTasks\AviaCompany\bin\Debug\AviaCompany.pdb
+D:\Mentoring EPAM\FINAL_MENTORING_TASKS_0\MentoringTasks\MentoringTasks\AviaCompany\obj\Debug\Task2_1_1_AviaCompany.csprojResolveAssemblyReference.cache

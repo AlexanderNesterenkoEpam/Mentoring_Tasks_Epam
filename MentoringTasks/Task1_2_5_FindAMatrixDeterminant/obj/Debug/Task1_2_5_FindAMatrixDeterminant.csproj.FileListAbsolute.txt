@@ -1,0 +1,6 @@
+D:\Mentoring EPAM\MentoringTasks\Task1_2_5_FindAMatrixDeterminant\bin\Debug\Task1_2_5_FindAMatrixDeterminant.exe.config
+D:\Mentoring EPAM\MentoringTasks\Task1_2_5_FindAMatrixDeterminant\bin\Debug\Task1_2_5_FindAMatrixDeterminant.exe
+D:\Mentoring EPAM\MentoringTasks\Task1_2_5_FindAMatrixDeterminant\bin\Debug\Task1_2_5_FindAMatrixDeterminant.pdb
+D:\Mentoring EPAM\MentoringTasks\Task1_2_5_FindAMatrixDeterminant\obj\Debug\Task1_2_5_FindAMatrixDeterminant.csprojResolveAssemblyReference.cache
+D:\Mentoring EPAM\MentoringTasks\Task1_2_5_FindAMatrixDeterminant\obj\Debug\Task1_2_5_FindAMatrixDeterminant.exe
+D:\Mentoring EPAM\MentoringTasks\Task1_2_5_FindAMatrixDeterminant\obj\Debug\Task1_2_5_FindAMatrixDeterminant.pdb

@@ -1,0 +1,39 @@
+<?xml version="1.0"?>
+<ArrayOfPlane xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Plane xsi:type="CargoAirplane">
+    <Id>2</Id>
+    <Name>sdss</Name>
+    <FlightRange>2</FlightRange>
+    <Carrying>3</Carrying>
+  </Plane>
+</ArrayOfPlane>  <Plane xsi:type="CargoAirplane">
+    <Id>4</Id>
+    <Name>Boeing C17</Name>
+    <FlightRange>2500</FlightRange>
+    <Carrying>250</Carrying>
+  </Plane>
+  <Plane xsi:type="PassengerAirplane">
+    <Id>1</Id>
+    <Name>Airbus A380</Name>
+    <FlightRange>3000</FlightRange>
+    <Capacity>230</Capacity>
+  </Plane>
+  <Plane xsi:type="CargoAirplane">
+    <Id>5</Id>
+    <Name>Boeing C16</Name>
+    <FlightRange>3500</FlightRange>
+    <Carrying>300</Carrying>
+  </Plane>
+  <Plane xsi:type="PassengerAirplane">
+    <Id>3</Id>
+    <Name>Airbus 370</Name>
+    <FlightRange>4000</FlightRange>
+    <Capacity>120</Capacity>
+  </Plane>
+  <Plane xsi:type="CargoAirplane">
+    <Id>6</Id>
+    <Name>Boeing C15</Name>
+    <FlightRange>4500</FlightRange>
+    <Carrying>150</Carrying>
+  </Plane>
+</ArrayOfPlane>

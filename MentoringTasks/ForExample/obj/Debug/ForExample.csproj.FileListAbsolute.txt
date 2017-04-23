@@ -1,0 +1,5 @@
+D:\Mentoring EPAM\MentoringTasks\ForExample\bin\Debug\ForExample.exe.config
+D:\Mentoring EPAM\MentoringTasks\ForExample\bin\Debug\ForExample.exe
+D:\Mentoring EPAM\MentoringTasks\ForExample\bin\Debug\ForExample.pdb
+D:\Mentoring EPAM\MentoringTasks\ForExample\obj\Debug\ForExample.exe
+D:\Mentoring EPAM\MentoringTasks\ForExample\obj\Debug\ForExample.pdb

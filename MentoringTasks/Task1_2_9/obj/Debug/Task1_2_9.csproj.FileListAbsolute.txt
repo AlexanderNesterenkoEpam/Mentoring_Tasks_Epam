@@ -1,0 +1,16 @@
+D:\Mentoring EPAM\Второй бэкап\MentoringTasks\MentoringTasks\MentoringTasks\Task1_2_9\bin\Debug\Task1_2_9.exe.config
+D:\Mentoring EPAM\Второй бэкап\MentoringTasks\MentoringTasks\MentoringTasks\Task1_2_9\bin\Debug\Task1_2_9.exe
+D:\Mentoring EPAM\Второй бэкап\MentoringTasks\MentoringTasks\MentoringTasks\Task1_2_9\bin\Debug\Task1_2_9.pdb
+D:\Mentoring EPAM\Второй бэкап\MentoringTasks\MentoringTasks\MentoringTasks\Task1_2_9\obj\Debug\Task1_2_9.csprojResolveAssemblyReference.cache
+D:\Mentoring EPAM\Второй бэкап\MentoringTasks\MentoringTasks\MentoringTasks\Task1_2_9\obj\Debug\Task1_2_9.exe
+D:\Mentoring EPAM\Второй бэкап\MentoringTasks\MentoringTasks\MentoringTasks\Task1_2_9\obj\Debug\Task1_2_9.pdb
+D:\MentoringTasks\third demo\MentoringTasks\MentoringTasks\Task1_2_9\bin\Debug\Task1_2_9.exe.config
+D:\MentoringTasks\third demo\MentoringTasks\MentoringTasks\Task1_2_9\obj\Debug\Task1_2_9.exe
+D:\MentoringTasks\third demo\MentoringTasks\MentoringTasks\Task1_2_9\obj\Debug\Task1_2_9.pdb
+D:\MentoringTasks\third demo\MentoringTasks\MentoringTasks\Task1_2_9\bin\Debug\Task1_2_9.exe
+D:\MentoringTasks\third demo\MentoringTasks\MentoringTasks\Task1_2_9\bin\Debug\Task1_2_9.pdb
+D:\MentoringTasks\FIVE DEMO\MentoringTasks\Task1_2_9\bin\Debug\Task1_2_9.exe.config
+D:\MentoringTasks\FIVE DEMO\MentoringTasks\Task1_2_9\bin\Debug\Task1_2_9.exe
+D:\MentoringTasks\FIVE DEMO\MentoringTasks\Task1_2_9\bin\Debug\Task1_2_9.pdb
+D:\MentoringTasks\FIVE DEMO\MentoringTasks\Task1_2_9\obj\Debug\Task1_2_9.exe
+D:\MentoringTasks\FIVE DEMO\MentoringTasks\Task1_2_9\obj\Debug\Task1_2_9.pdb

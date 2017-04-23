@@ -1,0 +1,23 @@
+D:\Mentoring EPAM\MentoringTasks\Task1_2_1_TransposeAMatrix\bin\Debug\Task1_2_1_TransposeAMatrix.exe.config
+D:\Mentoring EPAM\MentoringTasks\Task1_2_1_TransposeAMatrix\bin\Debug\Task1_2_1_TransposeAMatrix.exe
+D:\Mentoring EPAM\MentoringTasks\Task1_2_1_TransposeAMatrix\bin\Debug\Task1_2_1_TransposeAMatrix.pdb
+D:\Mentoring EPAM\MentoringTasks\Task1_2_1_TransposeAMatrix\obj\Debug\Task1_2_1_TransposeAMatrix.csprojResolveAssemblyReference.cache
+D:\Mentoring EPAM\MentoringTasks\Task1_2_1_TransposeAMatrix\obj\Debug\Task1_2_1_TransposeAMatrix.exe
+D:\Mentoring EPAM\MentoringTasks\Task1_2_1_TransposeAMatrix\obj\Debug\Task1_2_1_TransposeAMatrix.pdb
+D:\MentoringTasks\MentoringTasks\MentoringTasks\Task1_2_1_TransposeAMatrix\bin\Debug\Task1_2_1_TransposeAMatrix.exe.config
+D:\MentoringTasks\MentoringTasks\MentoringTasks\Task1_2_1_TransposeAMatrix\bin\Debug\Task1_2_1_TransposeAMatrix.exe
+D:\MentoringTasks\MentoringTasks\MentoringTasks\Task1_2_1_TransposeAMatrix\bin\Debug\Task1_2_1_TransposeAMatrix.pdb
+D:\MentoringTasks\MentoringTasks\MentoringTasks\Task1_2_1_TransposeAMatrix\obj\Debug\Task1_2_1_TransposeAMatrix.csprojResolveAssemblyReference.cache
+D:\MentoringTasks\MentoringTasks\MentoringTasks\Task1_2_1_TransposeAMatrix\obj\Debug\Task1_2_1_TransposeAMatrix.exe
+D:\MentoringTasks\MentoringTasks\MentoringTasks\Task1_2_1_TransposeAMatrix\obj\Debug\Task1_2_1_TransposeAMatrix.pdb
+D:\MentoringTasks\third demo\MentoringTasks\MentoringTasks\Task1_2_1_TransposeAMatrix\bin\Debug\Task1_2_1_TransposeAMatrix.exe.config
+D:\MentoringTasks\third demo\MentoringTasks\MentoringTasks\Task1_2_1_TransposeAMatrix\bin\Debug\Task1_2_1_TransposeAMatrix.exe
+D:\MentoringTasks\third demo\MentoringTasks\MentoringTasks\Task1_2_1_TransposeAMatrix\bin\Debug\Task1_2_1_TransposeAMatrix.pdb
+D:\MentoringTasks\third demo\MentoringTasks\MentoringTasks\Task1_2_1_TransposeAMatrix\obj\Debug\Task1_2_1_TransposeAMatrix.csprojResolveAssemblyReference.cache
+D:\MentoringTasks\third demo\MentoringTasks\MentoringTasks\Task1_2_1_TransposeAMatrix\obj\Debug\Task1_2_1_TransposeAMatrix.exe
+D:\MentoringTasks\third demo\MentoringTasks\MentoringTasks\Task1_2_1_TransposeAMatrix\obj\Debug\Task1_2_1_TransposeAMatrix.pdb
+D:\MentoringTasks\FIVE DEMO\MentoringTasks\Task1_2_1_TransposeAMatrix\bin\Debug\Task1_2_1_TransposeAMatrix.exe.config
+D:\MentoringTasks\FIVE DEMO\MentoringTasks\Task1_2_1_TransposeAMatrix\bin\Debug\Task1_2_1_TransposeAMatrix.exe
+D:\MentoringTasks\FIVE DEMO\MentoringTasks\Task1_2_1_TransposeAMatrix\bin\Debug\Task1_2_1_TransposeAMatrix.pdb
+D:\MentoringTasks\FIVE DEMO\MentoringTasks\Task1_2_1_TransposeAMatrix\obj\Debug\Task1_2_1_TransposeAMatrix.exe
+D:\MentoringTasks\FIVE DEMO\MentoringTasks\Task1_2_1_TransposeAMatrix\obj\Debug\Task1_2_1_TransposeAMatrix.pdb

@@ -1,0 +1,6 @@
+D:\Mentoring EPAM\FINAL_MENTORING_TASKS_0\MentoringTasks\MentoringTasks\Task2_1_2_Collections\bin\Debug\Task2_1_2_Collections.exe.config
+D:\Mentoring EPAM\FINAL_MENTORING_TASKS_0\MentoringTasks\MentoringTasks\Task2_1_2_Collections\bin\Debug\Task2_1_2_Collections.exe
+D:\Mentoring EPAM\FINAL_MENTORING_TASKS_0\MentoringTasks\MentoringTasks\Task2_1_2_Collections\bin\Debug\Task2_1_2_Collections.pdb
+D:\Mentoring EPAM\FINAL_MENTORING_TASKS_0\MentoringTasks\MentoringTasks\Task2_1_2_Collections\obj\Debug\Task2_1_2_Collections.exe
+D:\Mentoring EPAM\FINAL_MENTORING_TASKS_0\MentoringTasks\MentoringTasks\Task2_1_2_Collections\obj\Debug\Task2_1_2_Collections.pdb
+D:\Mentoring EPAM\FINAL_MENTORING_TASKS_0\MentoringTasks\MentoringTasks\Task2_1_2_Collections\obj\Debug\Task2_1_2_Collections.csprojResolveAssemblyReference.cache

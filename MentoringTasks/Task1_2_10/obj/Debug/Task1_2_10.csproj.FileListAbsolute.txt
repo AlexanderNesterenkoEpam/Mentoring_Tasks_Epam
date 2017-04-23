@@ -1,0 +1,11 @@
+D:\MentoringTasks\third demo\MentoringTasks\MentoringTasks\Task1_2_10\bin\Debug\Task1_2_10.exe.config
+D:\MentoringTasks\third demo\MentoringTasks\MentoringTasks\Task1_2_10\bin\Debug\Task1_2_10.exe
+D:\MentoringTasks\third demo\MentoringTasks\MentoringTasks\Task1_2_10\bin\Debug\Task1_2_10.pdb
+D:\MentoringTasks\third demo\MentoringTasks\MentoringTasks\Task1_2_10\obj\Debug\Task1_2_10.csprojResolveAssemblyReference.cache
+D:\MentoringTasks\third demo\MentoringTasks\MentoringTasks\Task1_2_10\obj\Debug\Task1_2_10.exe
+D:\MentoringTasks\third demo\MentoringTasks\MentoringTasks\Task1_2_10\obj\Debug\Task1_2_10.pdb
+D:\MentoringTasks\FIVE DEMO\MentoringTasks\Task1_2_10\bin\Debug\Task1_2_10.exe.config
+D:\MentoringTasks\FIVE DEMO\MentoringTasks\Task1_2_10\bin\Debug\Task1_2_10.exe
+D:\MentoringTasks\FIVE DEMO\MentoringTasks\Task1_2_10\bin\Debug\Task1_2_10.pdb
+D:\MentoringTasks\FIVE DEMO\MentoringTasks\Task1_2_10\obj\Debug\Task1_2_10.exe
+D:\MentoringTasks\FIVE DEMO\MentoringTasks\Task1_2_10\obj\Debug\Task1_2_10.pdb
